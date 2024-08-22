@@ -1,0 +1,17 @@
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\DPDC.Services.csproj.AssemblyReference.cache
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\DPDC.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\DPDC.Services.AssemblyInfoInputs.cache
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\DPDC.Services.AssemblyInfo.cs
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\DPDC.Services.csproj.CoreCompileInputs.cache
+G:\Personal\Payment\DPDC.Services\bin\Debug\net8.0\DPDC.Services.deps.json
+G:\Personal\Payment\DPDC.Services\bin\Debug\net8.0\DPDC.Services.dll
+G:\Personal\Payment\DPDC.Services\bin\Debug\net8.0\DPDC.Services.pdb
+G:\Personal\Payment\DPDC.Services\bin\Debug\net8.0\DPDC.Connections.dll
+G:\Personal\Payment\DPDC.Services\bin\Debug\net8.0\DPDC.Manager.dll
+G:\Personal\Payment\DPDC.Services\bin\Debug\net8.0\DPDC.Connections.pdb
+G:\Personal\Payment\DPDC.Services\bin\Debug\net8.0\DPDC.Manager.pdb
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\DPDC.Ser.E2145458.Up2Date
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\DPDC.Services.dll
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\refint\DPDC.Services.dll
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\DPDC.Services.pdb
+G:\Personal\Payment\DPDC.Services\obj\Debug\net8.0\ref\DPDC.Services.dll

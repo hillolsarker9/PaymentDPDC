@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUi7El3Afac=",
+  "success": true,
+  "projectFilePath": "G:\\Personal\\Payment\\DPDC.Manager\\DPDC.Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Masco\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}

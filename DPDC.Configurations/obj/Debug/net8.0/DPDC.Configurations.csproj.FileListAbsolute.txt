@@ -1,0 +1,11 @@
+G:\Personal\Payment\DPDC.Configurations\bin\Debug\net8.0\DPDC.Configurations.deps.json
+G:\Personal\Payment\DPDC.Configurations\bin\Debug\net8.0\DPDC.Configurations.dll
+G:\Personal\Payment\DPDC.Configurations\bin\Debug\net8.0\DPDC.Configurations.pdb
+G:\Personal\Payment\DPDC.Configurations\obj\Debug\net8.0\DPDC.Configurations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Personal\Payment\DPDC.Configurations\obj\Debug\net8.0\DPDC.Configurations.AssemblyInfoInputs.cache
+G:\Personal\Payment\DPDC.Configurations\obj\Debug\net8.0\DPDC.Configurations.AssemblyInfo.cs
+G:\Personal\Payment\DPDC.Configurations\obj\Debug\net8.0\DPDC.Configurations.csproj.CoreCompileInputs.cache
+G:\Personal\Payment\DPDC.Configurations\obj\Debug\net8.0\DPDC.Configurations.dll
+G:\Personal\Payment\DPDC.Configurations\obj\Debug\net8.0\refint\DPDC.Configurations.dll
+G:\Personal\Payment\DPDC.Configurations\obj\Debug\net8.0\DPDC.Configurations.pdb
+G:\Personal\Payment\DPDC.Configurations\obj\Debug\net8.0\ref\DPDC.Configurations.dll
